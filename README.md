@@ -1,2 +1,5 @@
 # hello-world
-my 1st repository
+
+Hi Humans!
+
+I like tacos and cookies. 
